@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Objectives of BCS-053</title>
+  </head>
+<style>
+ol.a {
+  font-size: 14pt;
+  font-family: "Times New Roman", Times, serif;
+  background: lightyellow;
+  margin: 5px;}
+</style>
+</head>
+<body>
+
+<h2>BCS-053: Web Programming </h2>
+
+<h3><b>Objectives:</b></h3>
+<ol class="a">
+  <li>Use XHTML tags to create simple static web pages;
+</li>
+   <li>format a simple Web page using Cascading Style sheets;
+</li>
+    <li>state the concepts applicable to web programming;
+</li>
+     <li>create an interactive and dynamic Web site using JavaScript;
+</li>
+      <li>represent data over the Web using XML;
+</li>
+       <li>appreciate the use of Ajax and Rich Internet Applications, and
+</li>
+        <li>perform server side scripting using Java Server Pages (JSP).
+</li>
+</ol>
+</body>
+</html>
