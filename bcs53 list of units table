@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Units of BCS-053</title>
+  </head>
+<style>
+table, th, td {
+font-weight: normal;
+font-style: italic;
+  border:1px solid black;
+}
+#units th{background-color: lightgreen;}
+
+#units tr:nth-child(even){background-color: lightblue;}
+
+#units tr:nth-child(odd){background-color: lightpink;}
+
+</style>
+<body>
+
+<h2> Units of BCS053</h2>
+
+<table id="units" style="width:100%">
+  <tr>
+  <th><b>Block</b></th>
+  <th><b>Serial Number</b></th>
+  <th><b>Name of the Unit</b></th>
+  <th><b>List of Topics</b></th>
+  </tr>
+  <tr>
+   <td>Client Side</td>
+    <td>1</td>
+    <td>Web 2.0 and XHTML</td>
+    <td>What Is Web 2.0? Introduction to Web 2.0 terms: Search, Content Networks,
+Blogging, Social Networking, Social Media, Rich Internet Applications (RIAs), Web
+Services, Mashups, Widgets and Gadgets, Introduction to XHTML and WML,
+Syntactic Differences between HTML and XHTML, Standard XHTML Document
+Structure, An example of XHTML covering Basic Syntax, Images, Hypertext Links,
+Lists and Tables, Creation of an XHTML Form, Internal Linking and Meta Elements.</td>
+  </tr>
+  <tr>
+  <td></td>
+    <td>2</td>
+    <td>Using Style Sheets
+</td>
+    <td>CSS: Inline Styles, Embedded Style Sheets, Linking External Style Sheets, Style
+Specification Formats Selector Forms, Colour, Property Value Forms, Font
+Properties, List Properties, Alignment of Text, The Box Model, Background Image,The span and div Tags.</td>
+  </tr>
+  <tr>
+    <td></td>
+
+    <td>3</td>
+    <td>Introduction to XML</td>
+    <td>XML Basics, XML Document Structure, XML Namespaces, Document Type
+Definitions, XML Schemas, Displaying XML Documents.</td>
+  </tr>
+  <tr>
+    <td></td>
+
+    <td>4</td>
+    <td>Programming with Java Script – DOM and Events</td>
+    <td>The Document Object Model, Element Access in JavaScript, Traversing and Modifying a DOM Tree, DOM Collections and Styles, Events,
+       Examples of Event Handling from Body, Button, Text Box and Password Elements, Dynamic
+Documents using JavaScript – element moving, visibility, positioning etc., Example-program (s),Introduction and example of AJAX.
+</td>
+  </tr>
+  <tr>
+    <td></td>
+
+    <td>5</td>
+    <td>Introduction to WAP and WML</td>
+    <td>WAP and WML Basics, WML formatting and links, WML input, WML tasks, WML
+timer, WML variables</td>
+  </tr>
+  <tr>
+  <td>Server Side</td>
+    <td>1</td>
+    <td>The Server Side Scripting</td>
+    <td>Server side scripting and its need ,Two-Tier, Three-Tier, N-Tier and Enterprise
+Architecture, Various Languages/ Technologies for server scripting ,HTTP Methods
+(such as GET, POST, HEAD, and so on) , Purpose ,Technical characteristics,
+Method selection, Use of request and response primitives, Web container – Tomcat.</td>
+  </tr>
+  <tr>
+ <td></td>
+    <td>2</td>
+    <td>JSP – Basic</td>
+    <td>Basic JSP Lifecycle, JSP Directives and Elements, Scriptlets, Expressions, Action
+Elements, Standard Actions, Comments and Template Data, JSP variables, The out
+Object, Request, response, sessions and application objects.</td>
+  </tr>
+   <tr>
+ <td></td>
+    <td>3</td>
+    <td>JSP – Applications</td>
+    <td>Exceptions and exception handling using JSP, Cookies and sessions, Managing Email using JSP.</td>
+  </tr>
+   <tr>
+ <td></td>
+    <td>4</td>
+    <td>JSP Application Development</td>
+    <td>Example applications using JSP, What is JDBC? Need for JDBC, Database Drivers, Connection using JDBC API,
+       Application development and deployment.</td>
+  </tr>
+</table>
+
+
+</body>
+</html>
